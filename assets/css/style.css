@@ -1,0 +1,747 @@
+body{
+	width: 1180px;
+	margin: 0 auto !important;
+	float: none !important;
+}
+
+
+.floating-box {
+    float: left;
+}
+
+.floating-box2 {
+    float: left;
+}
+
+.after2-box {
+	float: left;
+	margin-top: 40px;
+	width: 270px;
+	height: 190px;
+	background-color: #ffffff;
+	padding-top: 0px;
+	padding-left: 15px;
+	padding-right: 15px;
+	border-color: #dddddd;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.after-box {
+	float: left;
+	color: #4aaaa5;
+	background-color: #ffffff;
+	width: 650px;
+	margin-top: 40px;
+	margin-right: 40px;
+	margin-bottom: 40px;
+	margin-left: 90px;
+	padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 17px;
+    padding-left: 30px;
+    border-color: #dddddd;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.after-box-alt {
+	float: left;
+	color: #4aaaa5;
+	background-color: #ffffff;
+	width: 650px;
+	margin-top: 40px;
+	margin-right: 40px;
+	margin-bottom: 40px;
+	margin-left: 90px;
+	padding-top: 0px;
+    padding-right: 25px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+    border-color: #dddddd;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.after-box-port {
+	float: left;
+	color: #4aaaa5;
+	background-color: #ffffff;
+	width: 650px;
+	margin-top: 40px;
+	margin-right: 40px;
+	margin-bottom: 40px;
+	margin-left: 90px;
+	padding-top: 0px;
+    padding-right: 30px;
+    padding-bottom: 17px;
+    padding-left: 0px;
+    border-color: #dddddd;
+    border-style: solid;
+    border-width: 1px;
+}
+
+
+.links {
+	display: inline-block;
+}
+
+ul {
+	list-style-type:none;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	margin-top: 35px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+}
+
+li {
+	font-weight: bold;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: orange;
+	display: inline-block;
+	
+	margin-top: 0px;
+	padding-left: 10px;
+	padding-right: 15px;
+}
+
+header {
+	height: 100px;
+	background-color: #ffffff;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	border: solid;
+	border-top-color: #ffffff;
+	border-right-color: #ffffff;
+	border-bottom-color: #cccccc;
+	border-left-color: #ffffff;
+}
+
+.name {
+	color: #ffffff;
+	background-color: #4aaaa5;
+	margin-top: 0px;
+	margin-right: 495px;
+	margin-bottom: 0px;
+    margin-left: 90px;
+    padding-top: 17px;
+    padding-right: 10px;
+    padding-bottom: 17px;
+    padding-left: 10px;
+}
+
+.about {
+	width: 630px;
+	color: #4aaaa5;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    border-bottom: 2px solid #cccccc;
+}
+
+.contact {
+	width: 645px;
+	color: #4aaaa5;
+	margin-top: 0px;
+	margin-right: 300px;
+	margin-bottom: 20px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    border-bottom: 2px solid #cccccc;
+}
+
+.portfolio {
+	width: 575px;
+	color: #4aaaa5;
+	margin-top: 0px;
+	margin-right: 300px;
+	margin-bottom: 0px;
+    margin-left: 45px;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    border-bottom: 2px solid #cccccc;
+}
+
+
+#full {
+	
+	
+	background-image: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/concrete_seamless.png");
+	overflow: auto;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.tinyleftmargin {
+	margin-left: 0px;
+}
+
+img {
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+
+}
+
+p {
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;	
+}
+
+.connect {
+	width: 190px;
+	color: #4aaaa5;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #cccccc;
+}
+
+footer {
+	height: 95px;
+	background-color: #666666;
+	border-top: 8px solid #4aaaa5;
+	text-align: center;
+}
+
+.end {
+	color: #cccccc;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 100px;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+form {
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+ .hangman {
+ 	color: #ffffff;
+	position: absolute;
+    left: 516px;
+    top: 360px;
+    background-color: #4aaaa5;
+    padding-top: 15px;
+    padding-right: 64px;
+    padding-bottom: 15px;
+    padding-left: 64px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+ .rpggame {
+ 	color: #ffffff;
+	position: absolute;
+    left: 815px;
+    top: 360px;
+    background-color: #4aaaa5;
+    padding-top: 15px;
+    padding-right: 53px;
+    padding-bottom: 15px;
+    padding-left: 64px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+ .triviagame {
+ 	color: #ffffff;
+	position: absolute;
+    left: 516px;
+    top: 568px;
+    background-color: #4aaaa5;
+    padding-top: 15px;
+    padding-right: 43px;
+    padding-bottom: 15px;
+    padding-left: 55px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.rutgersinfowidget {
+ 	color: #ffffff;
+	position: absolute;
+    left: 815px;
+    top: 568px;
+    background-color: #4aaaa5;
+    padding-top: 15px;
+    padding-right: 0px;
+    padding-bottom: 15px;
+    padding-left: 0px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.rockpaperscissors {
+	color: #ffffff;
+	position: absolute;
+    left: 516px;
+    top: 778px;
+    background-color: #4aaaa5;
+    padding-top: 15px;
+    padding-right: 0px;
+    padding-bottom: 15px;
+    padding-left: 1px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+a {
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+/* Rules for screen widths at 980px or lower */
+@media only screen and (min-width: 768px) and (max-width: 980px) {
+	
+	.after-box {
+		width: 20%;
+		margin-top: 20px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+	}
+
+	.after-box-alt {
+		width: 30%;
+		margin-top: 20px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+	}
+
+	.after-box-port {
+		width: 30%;
+		margin-top: 20px;
+		margin-bottom: 10px;
+		padding-bottom: 0px;
+		float: left;
+		clear: both;
+	}
+
+	.after2-box {
+		width: 23%;
+		height: 150px;
+		margin-top: 20px;
+		margin-bottom: 10px;
+		margin-left: 0px;
+		padding-bottom: 0px;
+		padding-right: 0px;
+		float: left;		
+	}	
+
+	.name {
+		margin-right: 85px;
+	}
+
+	footer {
+		width: 100%;
+		text-align: left;
+		padding-top: 20px;
+		padding-left: 300px;
+	}
+
+	.about {
+		width: 225px;
+	}
+
+	.contact {
+		width: 350px;
+	}
+
+	.portfolio {
+		width: 275px;
+	}
+
+	.hangman {
+		position: absolute;
+    	left: 150px;
+    	top: 350px;
+ 	}
+
+ 	.rpggame {
+ 		position: absolute;
+    	left: 150px;
+    	top: 560px;
+    }
+
+    .triviagame {
+		position: absolute;
+    	left: 150px;
+    	top: 770px;
+	}
+
+	.rutgersinfowidget {
+		position: absolute;
+		left: 150px;
+		top: 980px;
+	} 
+
+	.rockpaperscissors {
+		position: absolute;
+		left: 150px;
+		top: 1190px;
+	}     
+}
+
+/* Rules for screen widths at 768px or lower */
+@media only screen and (min-width: 640px) and (max-width: 768px) {
+	
+	.name {
+		width: 200px;
+		margin-left: 90px;
+		margin-right: 30px;
+		text-align: left;
+		padding-top: 7px; 
+		padding-left: 7px;
+	}
+
+
+	.after-box {
+		width: 45%;
+		margin-top: 30px;
+		margin-bottom: 10px;
+		padding-bottom: 0px;
+		clear: both;
+	}
+
+	.after-box-alt {
+		width: 42%;
+		margin-top: 30px;
+		margin-bottom: 10px;
+		padding-bottom: 0px;
+		clear: both;
+	}
+
+	.after-box-port {
+		width: 47%;
+		margin-top: 30px;
+		margin-bottom: 10px;
+		padding-bottom: 0px;
+		clear: both;
+	}
+
+	.after2-box {
+		width: 48%;
+		height: 180px;
+		margin-top: 30px;
+		margin-bottom: 45px;
+		margin-left: 90px;
+		padding-bottom: 0px;
+		padding-right: 0px;
+		float: left;
+		clear: both;
+		
+	}
+
+	.about {
+		width: 455px;
+	}
+
+	header {
+		height: 88px;
+	}
+
+	footer {
+		width: 100%;
+		padding-top: 30px;
+		padding-left: 0px;
+	}
+
+	.contact {
+		width: 490px;
+	}
+
+	.imgPort {
+		width: 175px;
+		height: 150px;
+	}
+
+	.portfolio {
+		width: 480px;
+	}
+
+	.hangman {
+		position: absolute;
+    	left: 150px;
+    	top: 302px;
+    	padding-left: 30px;
+    	padding-right: 25px;
+ 	}
+
+ 	.rpggame {
+ 		position: absolute;
+    	left: 372px;
+    	top: 302px;
+    	padding-left: 25px;
+    	padding-right: 20px;
+    }
+
+    .triviagame {
+		position: absolute;
+    	left: 150px;
+    	top: 466px;
+    	padding-left: 10px;
+    	padding-right: 15px;
+	}
+
+	.rutgersinfowidget {
+		position: absolute;
+    	left: 372px;
+    	top: 472px;
+    	padding-top: 20px;
+    	padding-right: 7px;
+    	padding-bottom: 20px;
+    	padding-left: 6px;
+    	font-size: 99%;
+	} 
+
+	.rockpaperscissors {
+		position: absolute;
+    	left: 150px;
+    	top: 636px;
+    	padding-top: 20px;
+    	padding-right: 8px;
+    	padding-bottom: 20px;
+    	padding-left: 6px;
+    	font-size: 99%;
+	}     
+}
+
+/* Rules for screen widths at 640px or lower */
+@media only screen and (max-width: 640px) {
+
+	header {
+		position: static;
+	}
+	
+	.floating-box {
+		width: 100%;
+		height: 50px;
+		float: left;
+	}
+
+	.floating2-box {
+		width: 100%;
+		height: 0px;
+		float: left;
+		clear: both;
+		background-color: #ffffff;
+		margin-bottom: 5px;
+	}
+
+	.name {
+		width: 100%;
+		margin-left: 0px;
+		text-align: left;
+		padding-top: 1px; 
+		padding-left: 135px;
+	}
+
+
+	.after-box {
+		width: 20%;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		padding-bottom: 0px;
+		clear: both;
+
+	}
+
+	.after-box-alt {
+		width: 20%;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		padding-bottom: 0px;
+		clear: both;
+	}
+
+	.after-box-port {
+		width: 20%;
+		height: 575px;
+		margin-top: 10px;
+		margin-right: 10px;
+		margin-bottom: 10px;
+		margin-left: 90px;
+		padding-bottom: 0px;
+		
+	}
+
+
+	.after2-box {
+		width: 262px;
+		height: 115px;
+		margin-top: 0px;
+		margin-bottom: 10px;
+		margin-left: 90px;
+		padding-bottom: 0px;
+		padding-right: 0px;
+		float: left;
+		clear: both;
+		
+	}
+
+	footer {
+		width: 100%;
+		height: 60px;
+		padding-top: 0px;
+		padding-left: 120px;
+		text-align: left;
+	}
+
+	.imgGH {
+		width: 30px;
+		height: 30px;
+	}
+
+	.imgLI {
+		width: 30px;
+		height: 30px;
+	}
+
+	.imgSO {
+		width: 30px;
+		height: 30px;
+	}
+
+	.imgPort {
+		width: 100px;
+		height: 80px;
+	}
+
+	.links {
+		background-color: #ffffff;
+		padding-top: 10px;
+		width: 100%;
+		height: 30px;
+		margin-bottom: 0px;
+
+	}
+
+	ul {
+		margin-top: 0px;
+		padding-left: 105px;
+		margin-bottom: 200px;
+	}
+
+	.about {
+		width: 225px;
+		margin-bottom: 10px;
+		padding-bottom: 0px;
+	}
+
+	#full {
+		clear: both;
+	}
+
+	.contact {
+		width: 230px;
+		padding-bottom: 25px;
+		margin-bottom: 50px;
+	}
+
+	.portfolio {
+		width: 180px;
+		margin-bottom: 10px;
+	}
+
+	.ulPort {
+		padding-left: 60px;
+	}
+
+	.hangman {
+		position: absolute;
+    	left: 171px;
+    	top: 240px;
+    	padding-top: 5px;
+    	padding-left: 17px;
+    	padding-right: 18px;
+    	padding-bottom: 5px;
+    	font-size: 80%;
+ 	}
+
+ 	.rpggame {
+ 		position: absolute;
+    	left: 171px;
+    	top: 335px;
+    	padding-top: 5px;
+    	padding-left: 15px;
+    	padding-right: 15px;
+    	padding-bottom: 5px;
+    	font-size: 80%;
+    }
+
+    .triviagame {
+		position: absolute;
+    	left: 171px;
+    	top: 428px;
+    	padding-top: 5px;
+    	padding-left: 10px;
+    	padding-right: 9px;
+    	padding-bottom: 5px;
+    	font-size: 80%;
+	}
+
+	.rutgersinfowidget {
+		position: absolute;
+    	left: 171px;
+    	top: 530px;
+    	padding-top: 5px;
+    	padding-left: 0px;
+    	padding-right: 1px;
+    	padding-bottom: 5px;
+    	font-size: 60%;
+	} 
+
+	.rockpaperscissors {
+		position: absolute;
+    	left: 171px;
+    	top: 629px;
+    	padding-top: 5px;
+    	padding-left: 0px;
+    	padding-right: 2px;
+    	padding-bottom: 5px;
+    	font-size: 60%;
+	}    
+}
